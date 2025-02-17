@@ -1,5 +1,5 @@
 # 12306
-简单的12306抢票程序
+#简单的12306抢票程序
 import re
 from splinter.browser import Browser
 from time import sleep
